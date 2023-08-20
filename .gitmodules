@@ -1,0 +1,9 @@
+[submodule "01-hola-mundo"]
+	path = 01-hola-mundo
+	url = https://github.com/japillajo/node-01-hola-mundo.git
+[submodule "02-fundamentos"]
+	path = 02-fundamentos
+	url = https://github.com/japillajo/node-02-fundamentos.git
+[submodule "03-tabla-consola"]
+	path = 03-tabla-consola
+	url = https://github.com/japillajo/03-tabla-consola.git
