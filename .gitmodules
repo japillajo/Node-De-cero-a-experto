@@ -7,3 +7,6 @@
 [submodule "03-tabla-consola"]
 	path = 03-tabla-consola
 	url = https://github.com/japillajo/03-tabla-consola.git
+[submodule "04-tareas-hacer"]
+	path = 04-tareas-hacer
+	url = https://github.com/japillajo/node-04-tareas-hacer.git
