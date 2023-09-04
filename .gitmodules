@@ -10,3 +10,6 @@
 [submodule "04-tareas-hacer"]
 	path = 04-tareas-hacer
 	url = https://github.com/japillajo/node-04-tareas-hacer.git
+[submodule "05-clima-app"]
+	path = 05-clima-app
+	url = https://github.com/japillajo/node-05-clima-app.git
