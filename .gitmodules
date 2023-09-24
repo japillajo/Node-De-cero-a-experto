@@ -13,3 +13,6 @@
 [submodule "05-clima-app"]
 	path = 05-clima-app
 	url = https://github.com/pandc19/node-05-clima-app.git
+[submodule "06-webserver"]
+	path = 06-webserver
+	url = https://github.com/pandc19/node-06-webserver.git
