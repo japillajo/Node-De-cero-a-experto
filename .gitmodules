@@ -19,3 +19,6 @@
 [submodule "07-restserver"]
 	path = 07-restserver
 	url = https://github.com/pandc19/node-07-restserver.git
+[submodule "08-websocket-server"]
+	path = 08-websocket-server
+	url = https://github.com/pandc19/node-08-websocket-server.git
