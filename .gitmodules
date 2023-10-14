@@ -22,3 +22,6 @@
 [submodule "08-websocket-server"]
 	path = 08-websocket-server
 	url = https://github.com/pandc19/node-08-websocket-server.git
+[submodule "09-socket-colas"]
+	path = 09-socket-colas
+	url = https://github.com/pandc19/node-09-socket-colas.git
