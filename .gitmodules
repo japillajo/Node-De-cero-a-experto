@@ -25,3 +25,6 @@
 [submodule "09-socket-colas"]
 	path = 09-socket-colas
 	url = https://github.com/pandc19/node-09-socket-colas.git
+[submodule "10-socket-chat"]
+	path = 10-socket-chat
+	url = https://github.com/pandc19/node-10-socket-chat.git
