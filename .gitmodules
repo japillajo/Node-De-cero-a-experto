@@ -28,3 +28,6 @@
 [submodule "10-socket-chat"]
 	path = 10-socket-chat
 	url = https://github.com/pandc19/node-10-socket-chat.git
+[submodule "11-ts-restserver"]
+	path = 11-ts-restserver
+	url = https://github.com/pandc19/node-11-ts-restserver.git
